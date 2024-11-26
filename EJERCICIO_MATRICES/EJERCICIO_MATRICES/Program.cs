@@ -22,7 +22,7 @@ internal class Program
         { matrix[1, i] = matrix[0, i] * 3; }
 
 
-        Console.Write($"Matrix 2x4\n");
+        Console.Write($"------ Matrix 2x4 -------\n");
 
         //Con estos dos Fors anidados, muestro la Matriz
         for (int f = 0;f < 2; f++) //Comienzo con las filas
